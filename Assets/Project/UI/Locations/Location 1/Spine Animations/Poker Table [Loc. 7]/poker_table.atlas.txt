@@ -1,0 +1,41 @@
+
+poker_table.png
+size: 398,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chair_1
+  rotate: false
+  xy: 200, 13
+  size: 87, 149
+  orig: 87, 149
+  offset: 0, 0
+  index: -1
+chair_2
+  rotate: false
+  xy: 2, 2
+  size: 97, 160
+  orig: 97, 160
+  offset: 0, 0
+  index: -1
+chair_3
+  rotate: false
+  xy: 101, 8
+  size: 97, 154
+  orig: 97, 154
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 164
+  size: 378, 112
+  orig: 395, 134
+  offset: 6, 12
+  index: -1
+table
+  rotate: false
+  xy: 2, 278
+  size: 394, 309
+  orig: 394, 309
+  offset: 0, 0
+  index: -1

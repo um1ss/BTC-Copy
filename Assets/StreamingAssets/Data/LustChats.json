@@ -1,0 +1,7693 @@
+ {
+	"type":"Yurowm.Serialization.Storage<LustTicTitsToe.LustChat>",
+	"items":{
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Angela",
+			"order":"1",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Oh, tough guy, you're recover!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"You know, the thing is that,I need your help."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"The casino is a promising place. But its requires a manager."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"0",
+					"replies":{
+						"Uh, what's wrong to the last one?",
+						"Aren't you a big boss?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"It's a sad story. Let's just say he couldn't handle the workload."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"But don't worry. You look like you can handle it."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"Oh, this is too much for me. I need a strong arm."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"And great privileges for the manager. You'll find out..."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"So, well, first of all, the girls. They need to be dealt with."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"They look nice, but they're bitches."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"We have a big farm here. Of course, it's not as big as yours...",
+						"What am I supposed to do here?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"What do you have to do?",
+						"I'm starting to realize what you want from me"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Can we get right to the perks?",
+						"But how do you know I can do it?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Look at me.",
+						"I'll be watching. Who's behaving and how they're behaving"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"You gotta build them up."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"Slots, roulette, card tables, keep everything in order, get new equipment, bring in more guests."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"We're gonna be in a very close relationship to make you a casino mogul."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Clean yourself up first, stud."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"there's a shower and clean clothes waiting for you. And then we'll talk more."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"And I'm not just talking about work."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I believe in you!"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Bonny",
+			"order":"2",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Oh, I'm so sorry!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"I didn't mean to catch you naked!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I... I was getting ready to take a shower myself, and I just got the wrong door."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"You want me to believe you?",
+						"You know this casino like the back of your hand!"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"I got a good eye for balls."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"I guess I was just daydreaming."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"I love sucking cock"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"About self-pleasure in the shower. You could do that."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"But you should to clean yourself up. Take a shower and change, and then we'll continue."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I'll be unclothed, I hope you like it"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"About what?",
+						"what's going to be so interesting?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Is that hard enough for you?",
+						"Do you like to make it harder?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I prefer hard mode.",
+						"Let's start with easy mode and then speed up."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"See you later. I liked it all.",
+						"Oh, yeah, that was great. I suggest you get laid again"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Depends on the mode."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"I think I'm gonna like it a lot."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I love hardcore sex."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Aah! I've never come so fast."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"Mmm, that was so sensual."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I really liked it."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"See you later."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Jhinny",
+			"order":"3",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Chief, I need your help!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"Look what I've got"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"Look at my breast. There's something wrong with them"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I think it's a nice breast.",
+						"Sure, what's wrong?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"It's weird, it's like my bra is in the way."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"My nipples are aroused."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"I feel uncomfortable"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"You see! Your nipples are sticking out too much. Do you know what you can do?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"I can't find my own place"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I think I need to cool my nipples so they're less aroused."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"So take it off, silly.",
+						"We need to get you fully examined and checked out"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"There is one thing I can do.",
+						"Come on, spread your legs so we can fuck hard."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"What do you mean you don't want to work?! I'll make you work!",
+						"Yeah, let's fuck some more, I've got a hard cock."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I take care about my employees.",
+						"Don't wear a bra anymore"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Oh no, what have you done! Now I'm too horny to work."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"I can't feel normal."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I want to have sex so badly."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Thank you, you've been very helpful!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I'll come back to you with an extra reward."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"You're the best boss in the world!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"Yes, sir!"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Anna",
+			"order":"4",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"I watched out for you, and I want to say you're doing a great job."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"You hold yourself with dignity, the girls feel empowered and respect you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"You show yourself to be a strong and commanding manager."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Stop it, I've got a hard-on and I've got things to do.",
+						"Go on, it turns me on."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"You act confident and tough."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"You're so insatiable. I know it's not just for work."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"Keep it up!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"How insatiable! You've got work to do"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"It's all about work, and the sweets come later."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I can't work. I keep thinking about you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"You need to get to work",
+						"Get me some juice so I can recover and fuck you."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Yes, you have to work, we have to earn money.",
+						"I really like money and fucking dirty bitches."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"You don't have to stay after work.",
+						"We can fuck now, why wait till after work?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Thank you. You can just work and go.",
+						"Come on, bring more girls to fuck me."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"I'm trying, look how well I'm doing"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"I can stay a little longer after work. I enjoyed spending time with you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I want to be fucked very badly."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Oh, that's good, I really enjoyed it."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I gotta get cleaned up and start packing. To play with the girls some more."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I'll see what I can do to keep you busy and never alone."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I'm off!"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Michelle",
+			"order":"5",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Yes, Chief?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"What do I need to do?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I'm such a slob. I can show you something."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Sweety, come here",
+						"It's important to keep up appearances."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"Yes, chief, I'm here. What do you need me to do?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"Or what do I need to help you with?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"Oh, no, is there something wrong with me?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"I will."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"I took off my bra, I hope it's not bothering you anymore."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"What's wrong with it?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"That cape. It doesn't match to your eye color. Take it off.",
+						"And this bra?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"It's old-fashioned. They don't wear them now take it off",
+						"And finally, the panties. Wild synthetics, they irritate your delicate skin."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Come here, I'll warm you up.",
+						"Riding will warm you up. Climb up here."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"You can take your time",
+						"Come on, I'll warm you up, fuck you hard so you can't walk."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Whatever you say, Chief. I trust your taste"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"Got it, no more panties!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"But Chief... I'm cold now."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Oh, you've warmed me up, it feels so good."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I can't contain myself."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I'm starting to tighten up, I'm very horny."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"Chief, I'm going."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Rebecca",
+			"order":"6",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"You called for me, Chief?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"But... I really don't know! I've never been with a man..."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I'm not complaining, Chief, it's fine"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"It's the customers who complain",
+						"They say you're cold to them"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"I try to do as I'm told, within the work instructions."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"Maybe I should turn down the air conditioner."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"I can do more if I have to."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"I try to work more closely with them and please them in every way I can."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"I can show you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"Shall I pat him on the shoulder?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"That's no good. Customers should leave satisfied.",
+						"How is your communication with clients going?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Don't play with me. You know exactly what to do.",
+						"What do you do if a client loses a large sum of money?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Then I'll take care of your training personally",
+						"Then I'll give you assignments and check like homework to loosen you up."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Then what are you doing here?",
+						"Either work or start sucking."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"I'll do whatever it takes to keep a customer in the joint."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"Give me a chance, as long as I can give you one."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I need a job"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"I'll wait. It's a deal."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I guess I'll do well"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I'm not that good at studying"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"Well, I'll work and suck"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Staffy",
+			"order":"7",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Look at the large amount of money the guest left"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"Looks like I'm gonna get a big tip."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"Thank you, darling, chef."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I can't bear to watch, I want to get into your panties.",
+						"Staffy, you look so beautiful."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"But I have to count the cash register."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"You take care of the tipsy customers."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"I'll watch everyone."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"Think of the dead birds."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"Otherwise you'll have a hard time walking."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"Calm down first. I've seen you fuck all the girls."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I'm gonna hit someone else.",
+						"But I can't do anything with a boner like that!"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"What a dynamo you are.",
+						"About how I'm finally gonna get to you."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Ew, gross. I'd rather keep thinking about you.",
+						"You can help me and suck me off or fuck me."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I'm trying. I have to do something.",
+						"Oh yeah, I'd love to get laid, pretty bitches like that walking around."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"The stronger the desire, the greater the pleasure."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"I hope I won't collapse from fatigue by then."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"But you're independent, if you need to be, you'll be able to pull yourself together. Right hand."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"I'd rather go about my business."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I don't know where you get the energy to do all this."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I love that about you, you're so intense and enthusiastic."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I've moved on, look at me."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Sussy",
+			"order":"8",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Chief, I finally met you!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"I so dreamed to meet you one time!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I want you to know I'm honored to be here, and I'm giving my all to the job."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"That's a bold statement.",
+						"Less talking and more doing!"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"I wanted to tell you in person because the other girls are such bitches."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"Jeannie's always talking trash about me."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"But it's not true. I'm the most loyal employee."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"Looks like she's wrong."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"No, no, no, no, I--"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I'll try to keep pleasing and engaging with my clients"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Hmm, can I take your word for it?",
+						"What if Jeannie's telling the truth?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Guess what you can do in silence to convince me.",
+						"Let's do a little test: imagine that a slot machine has a broken lever. What would you do?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Well, you have done good job today, Susshy.",
+						"You did your best. We can fuck some more"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"It felt really good.",
+						"You're very good, we should do it again"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"I hope I did well."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"Oh, I loved doing it in silence."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I wonder if my moans weren't too audible."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"I loved it, I tried"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"It inspires me a lot."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I'll keep trying and working hard."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I moved on."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Crystal",
+			"order":"9",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Oh, look who's here."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"Wow, you look gorgeous."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"Not bad, we got a lot of new ones today."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Newbies are good, but it's important to keep the regulars coming back.",
+						"How's it going with the clients?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"I try to bring joy to my clients so that they are excited and prepared"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"Show each customer something they haven't seen before"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"Uh, get them excited?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"Look at my corset. You have to undo so many hooks to get out of it!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"It's not easy."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"But not everyone can make me come."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Get me excited right now.",
+						"What do you think it takes to do that?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Good, but not good enough.",
+						"Right. Do you know how to do that?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"No offense, but you're all alike in some way.",
+						"What I haven't seen under the corset?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Next time I'll beat it",
+						"It was a warm-up, I just felt sorry for you."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Finally, someone will satisfy me for real!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"Come on, I don't believe that!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"Good for you, I can feel the excitement to try again!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"There's something else. I can have multi-orgasms."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I can come five times in succession."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"Ooh, that's a new record! Ten times!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I'll wait for the next time"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Keysi",
+			"order":"10",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Oh chief, you're the one walking around, wow."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"See how I'm working, I'm trying hard"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"Yeah, how did you know?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Customers complain that the drinks are too slow.",
+						"Cassie, is this your first time working at the bar?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"Why can't I get it right? I must be thinking of something else."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"Such a handsome and sexy chief, it's very exciting."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"Please, I'll try harder."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"Excuse me, please. Maybe I'm not cut out for this kind of work."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"I'm always in a state of wild desire."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I used to greet customers at the front desk, and I could masturbate discreetly the whole time."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Here's the thing! Why did you make it with one hand?",
+						"Show me how you work. Make me a cocktail."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"There are too many guests at the counter!",
+						"You're giving me no choice! Serve them while I--"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Here, take the money and buy a compact vibrator",
+						"When they put you back on the bar, come in before your shift."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Your problem has to be solved somehow",
+						"I have one suggestion on how to fix it"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"I can't do that now."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"The thing is, I'm a nymphomaniac."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"It's so much more pleasant and comfortable to work like this!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Thank you, Chief! You're so kind!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I'll satisfy you for the night ahead."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"You're the most empathetic manager!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I'll try harder, Chief"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Jemmy",
+			"order":"11",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"I'm so sick of these customers, they just keep coming and coming."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"I want to relax and have fun."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I wonder if my boss heard me."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"What's your secret?",
+						"Jemmy, your poker table has the best profit margin today."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"Oh, it's simple. I know how to play the perfect poker face."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"No player can guess what's on my mind."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"Try to guess what I'm thinking right now."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"I'd be happy with any other incentive."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"One that the other girls have already earned."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"Haha! You managed to make me laugh, I couldn't hold my face."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"A raise, maybe?",
+						"You're thinking about my dick."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Well, your efforts should be rewarded.",
+						"But I don't want to take you away from your desk."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Why don't you lie down on this desk?",
+						"Now we're gonna test you and fuck you hard."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I see you got a break from the clients.",
+						"Come on, start packing. You've got clients to work on."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"You can distract me, you're the chief."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"But to be honest, I was really thinking about him."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"How nice it would be to just lie down."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Oh, I loved it, I wouldn't crawl off that desk for anything."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"Maybe I should stay on the desk instead of working with clients."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"It's so good that it worked out."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I'll move on, chief, lots of clients."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Anji",
+			"order":"12",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"I can see you're enjoying your work, you really like it."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"You're a pleasure to watch."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I like it a lot"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I guess I am, but you know, there's something missing.",
+						"I'm under so much stress, I wouldn't mind having sex."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"We're all missing something all time."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"But not everyone can admit it to themselves."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"For example, our clients think they're short of money."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"But what they really lack is adrenaline."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"What do you lack?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"But you have more sex than most people. Everyone here already adores you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Sex, I guess.",
+						"Fame, perhaps."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I don't have enough.",
+						"But that's just in this casino."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"That's a nice warm-up.",
+						"I feel energized"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Maybe it's the confession.",
+						"No, I just like to fuck hard."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Come here, I want to show you something. I don't think you've ever seen anything like this"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"You like it? You can see more than that."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I can surprise you and make you happy."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Maybe you're not really warm enough, honey."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"That's why you're trying so hard to do everything and be the best."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"But it's okay, I can help you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"Let's see what happens. I'm outta here."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Dabby",
+			"order":"13",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Chief, the girls and I have organized a union to improve our working conditions."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"Because of work, it's hard for us to stay in shape"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"We don't have time to go to the gym."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Is that so? What do you want?",
+						"Let's get to work"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"And it's important for us to stay beautiful."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"We've thought we'd have a swimming pool."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"We could go swimming when we have a spare moment."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"Oh, yeah. I've loved it since I was a kid."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"I like being active and slim"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I miss horseback riding the most."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"That's not a bad idea. I'll think about it.",
+						"You're a sports fan, aren't you?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Did you like the feel of the wind in your hair?",
+						"Did you like the speed?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Well, I can't promise you a horse.",
+						"But you can ride right now."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I see you still have your horsemanship skills.",
+						"Great ride, even surprised myself with such expression."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"That too, definitely. I did, but not because of what everyone thinks."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"In fact, the faster I rode and the higher the hurdles, the more I came."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"Talking about it like that makes me horny"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Mmm. I like that suggestion, it's a real turn-on."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"But I don't see any horses. And you don't look much like a horse."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I think I know what we're doing here."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"It was so nice to remember the sport."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Sharriel",
+			"order":"14",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Hello, sir."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"What a beautiful place."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I like it here a lot already."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Come in, have a seat down on this couch right here.",
+						"Cheryl, right? So, why do you want to work for us?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"Oh, I hear it's a swanky, lucrative place with lots of opportunities for girls like me."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"I'm bold, sexy, confident and very resourceful!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"I'll admire and worship."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"I'll make sure he keeps most of his earnings in the casino."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"Hand out chips to the girls, treat everyone at the bar, make a new bet."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I'll get naked and give myself to him, because he can do whatever he wants."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"And what kind of girl would that be?",
+						"Okay, let's say you do what with a client who hits the jackpot."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"That's it? What can you do and prove yourself?",
+						"Basically right, but we need the practical part."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"What if the man lost all the money?",
+						"Tell me what you're gonna do with him."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I want to know what kind of sex the champ gets.",
+						"I'm curious to know what consolation sex will be like"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"And of course, I'll make his visit memorable so he'll come back again."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"He should have unforgettable sex! For the champ."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I'll hug him like this, with his whole face against my breast."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Then he should get consolation sex out of pity!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"To come back again"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"Did I get that right?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I'm ready, what should I do?"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Amelie",
+			"order":"15",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Hello, gentlemen!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"That I can help you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I can do something and show you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I certainly do. Amelie, she is the best in the business. Come here, baby",
+						"I need a girl who brings luck in a game of bones. Do you have one?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"Yes, we have everything. I can show you something"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"What can you do?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"First, I'll lick your bones."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"That's interesting. I'll try to make it even better"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"Now I'll hide the dice and you look for them."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"Yes, a little deeper. Warmer, even warmer. It's hot!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Let's see. Not enough! What's next?",
+						"This man wants you help to win for him. Let's go!"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"They're really warm!",
+						"Not bad, but not enough."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"You need to work on the way you lick them. Come into my office.",
+						"You're good, but I have an idea. The client should look for hidden bones with his tongue, not his hands. Come on, I'll show you"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Now that's a winning combination!",
+						"That's the kind of game I like even more"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Then I know how to make them really warm."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"Now I think we can get them out."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"Are you happy with me, Chief?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"I wonder what the chief wants me to do"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I'm trying very hard to please, but something's wrong."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I hope no one finds out about my wet panties."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I'm going back to work."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Katty",
+			"order":"16",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Good afternoon. What's your interest, Chief?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"How beautiful you look."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"Yeah, sure, what are you interested in?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I've never played one, but I've always wanted to try it out",
+						"Good evening, can you help me with the slot machine?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"It's simple. Sit back, drop a coin and pull the lever."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"What a sexy man, he knows something"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"That's okay, flip the coin and pull it again."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"Just keep pulling, you'll enjoy the process."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"Maybe it would be better if he pulled me like that"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"More or enough?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Nothing special again.",
+						"There are three different pictures here."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"More, I want to keep going!",
+						"I think I've won a little bit."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Faster! More! Yes!!! 777! Jackpot!",
+						"Do you think you can play faster?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I'll take a rain check. I think I'm getting a boner on the machines now.",
+						"Yeah, I'm just gonna take a little break, my arm's tired. You must be too"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Great, you're lucky tonight, you're a lucky man."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"I'd sleep with a lucky guy like you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"Sure, just flip the coins faster."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Yay, you won, now you can spend your winnings on girls."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"Congratulations! Here's your napkin"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"Come back when you have the strength"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"That's quite normal. Everyone has their own preferences in sex."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Lizzy",
+			"order":"17",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"You called for me, Chief?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"But... I really don't know! I've never been with a man..."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I'm not complaining, Chief, it's fine"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"It's the customers who complain",
+						"They say you're cold to them"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"I try to do as I'm told, within the work instructions."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"Maybe I should turn down the air conditioner."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"I can do more if I have to."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"I try to work more closely with them and please them in every way I can."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"I can show you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"Shall I pat him on the shoulder?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"That's no good. Customers should leave satisfied.",
+						"How is your communication with clients going?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Don't play with me. You know exactly what to do.",
+						"What do you do if a client loses a large sum of money?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Then I'll take care of your training personally",
+						"Then I'll give you assignments and check like homework to loosen you up."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Then what are you doing here?",
+						"Either work or start sucking."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"I'll do whatever it takes to keep a customer in the joint."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"Give me a chance, as long as I can give you one."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I need a job"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"I'll wait. It's a deal."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I guess I'll do well"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I'm not that good at studying"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"Well, I'll work and suck"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Helga",
+			"order":"18",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Chief, I finally met you!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"I so dreamed to meet you one time!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I want you to know I'm honored to be here, and I'm giving my all to the job."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"That's a bold statement.",
+						"Less talking and more doing!"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"I wanted to tell you in person because the other girls are such bitches."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"Jeannie's always talking trash about me."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"But it's not true. I'm the most loyal employee."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"Looks like she's wrong."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"No, no, no, no, I--"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I'll try to keep pleasing and engaging with my clients"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Hmm, can I take your word for it?",
+						"What if Jeannie's telling the truth?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Guess what you can do in silence to convince me.",
+						"Let's do a little test: imagine that a slot machine has a broken lever. What would you do?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Well, you have done good job today, Susshy.",
+						"You did your best. We can fuck some more"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"It felt really good.",
+						"You're very good, we should do it again"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"I hope I did well."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"Oh, I loved doing it in silence."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I wonder if my moans weren't too audible."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"I loved it, I tried"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"It inspires me a lot."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I'll keep trying and working hard."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I moved on."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Mikkey",
+			"order":"19",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Hey, handsome!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"Wow, you beat me so easily, I didn't see that coming."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I'll have to get back at you. I can't just let it go."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Hey! I didn't even have to work hard to beat you.",
+						"Hey, gorgeous! Yeah, I can do that. We can do more than just fight here, we can do something else too"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"You're a pretty interesting guy."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"I'll have to show you something. If you don't mind."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"If you don't like my offer, you can just say so."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"I hope I can surprise you with something."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"Oh, I'm getting so excited. I have to do something about it."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I haven't felt this way in a long time. I need to relax."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I'd be interested to see what you have to offer.",
+						"Come on, show me quick, I've got a hard cock."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"You're too tense. Let me help you.",
+						"I'll help you relax. Let's have sex."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I'm in the back row here.",
+						"We'll see each other more often now. I really like you, baby."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I'll see you around. I like you.",
+						"You can say goodbye to my cock first."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Thanks, you're really cool. You're so romantic."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"I've missed a man like you for a long time."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"Why haven't I seen you in class before?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"I guess I'll have to come to class more often."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I really like sex like you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I'll have to check the schedule to see when our next class is."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"Come on, handsome, see you later!"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Kissy",
+			"order":"20",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Oh chief, you're the one walking around, wow."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"See how I'm working, I'm trying hard"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"Yeah, how did you know?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Customers complain that the drinks are too slow.",
+						"Kissy, is this your first time working at the bar?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"Why can't I get it right? I must be thinking of something else."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"Such a handsome and sexy chief, it's very exciting."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"Please, I'll try harder."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"Excuse me, please. Maybe I'm not cut out for this kind of work."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"I'm always in a state of wild desire."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I used to greet customers at the front desk, and I could masturbate discreetly the whole time."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Here's the thing! Why did you make it with one hand?",
+						"Show me how you work. Make me a cocktail."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"There are too many guests at the counter!",
+						"You're giving me no choice! Serve them while I--"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Here, take the money and buy a compact vibrator",
+						"When they put you back on the bar, come in before your shift."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Your problem has to be solved somehow",
+						"I have one suggestion on how to fix it"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"I can't do that now."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"The thing is, I'm a nymphomaniac."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"It's so much more pleasant and comfortable to work like this!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Thank you, Chief! You're so kind!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I'll satisfy you for the night ahead."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"You're the most empathetic manager!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I'll try harder, Chief"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Hanny",
+			"order":"21",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Oh, I'm so sorry!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"I didn't mean to catch you naked!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I... I was getting ready to take a shower myself, and I just got the wrong door."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"You want me to believe you?",
+						"You know this casino like the back of your hand!"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"I got a good eye for balls."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"I guess I was just daydreaming."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"I love sucking cock"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"About self-pleasure in the shower. You could do that."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"But you should to clean yourself up. Take a shower and change, and then we'll continue."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I'll be unclothed, I hope you like it"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"About what?",
+						"What would be so interesting to offer her"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Is that hard enough for you?",
+						"Do you like to make it harder?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I prefer hard mode.",
+						"Let's start with easy mode and then speed up."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"See you later. I liked it all.",
+						"Oh, yeah, that was great. I suggest you get laid again"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Depends on the mode."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"I think I'm gonna like it a lot."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I love hardcore sex."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Aah! I've never come so fast."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"Mmm, that was so sensual."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I really liked it."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"See you later."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Ammy",
+			"order":"22",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Hello, gentlemen!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"That I can help you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I can do something and show you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I certainly do. Amelie, she is the best in the business. Come here, baby",
+						"I need a girl who brings luck in a game of bones. Do you have one?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"Yes, we have everything. I can show you something"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"What can you do?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"First, I'll lick your bones."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"That's interesting. I'll try to make it even better"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"Now I'll hide the dice and you look for them."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"Yes, a little deeper. Warmer, even warmer. It's hot!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Let's see. Not enough! What's next?",
+						"This man wants you help to win for him. Let's go!"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"They're really warm!",
+						"Not bad, but not enough."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"You need to work on the way you lick them. Come into my office.",
+						"You're good, but I have an idea. The client should look for hidden bones with his tongue, not his hands. Come on, I'll show you"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Now that's a winning combination!",
+						"That's the kind of game I like even more"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Then I know how to make them really warm."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"Now I think we can get them out."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"Are you happy with me, Chief?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"I wonder what the chief wants me to do"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I'm trying very hard to please, but something's wrong."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I hope no one finds out about my wet panties."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I'm going back to work."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Cristin",
+			"order":"23",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Oh, look who's here."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"Wow, you look gorgeous."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"Not bad, we got a lot of new ones today."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Newbies are good, but it's important to keep the regulars coming back.",
+						"How's it going with the clients?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"I try to bring joy to my clients so that they are excited and prepared"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"Show each customer something they haven't seen before"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"Uh, get them excited?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"Look at my corset. You have to undo so many hooks to get out of it!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"It's not easy."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"But not everyone can make me come."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Get me excited right now.",
+						"What do you think it takes to do that?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Good, but not good enough.",
+						"Right. Do you know how to do that?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"No offense, but you're all alike in some way.",
+						"What I haven't seen under the corset?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Next time I'll beat it",
+						"It was a warm-up, I just felt sorry for you."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Finally, someone will satisfy me for real!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"Come on, I don't believe that!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"Good for you, I can feel the excitement to try again!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"There's something else. I can have multi-orgasms."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I can come five times in succession."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"Ooh, that's a new record! Ten times!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I'll wait for the next time"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Elsa",
+			"order":"24",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"I can see you're enjoying your work, you really like it."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"You're a pleasure to watch."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I like it a lot"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I guess I am, but you know, there's something missing.",
+						"I'm under so much stress, I wouldn't mind having sex."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"We're all missing something all time."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"But not everyone can admit it to themselves."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"For example, our clients think they're short of money."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"But what they really lack is adrenaline."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"What do you lack?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"But you have more sex than most people. Everyone here already adores you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Sex, I guess.",
+						"Fame, perhaps."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I don't have enough.",
+						"But that's just in this casino."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"That's a nice warm-up.",
+						"I feel energized"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Maybe it's the confession.",
+						"No, I just like to fuck hard."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Come here, I want to show you something. I don't think you've ever seen anything like this"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"You like it? You can see more than that."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I can surprise you and make you happy."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"Maybe you're not really warm enough, honey."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"That's why you're trying so hard to do everything and be the best."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"But it's okay, I can help you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"Let's see what happens. I'm outta here."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Velly",
+			"order":"25",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Oh, look who's here."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"Wow, you look gorgeous."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"Not bad, we got a lot of new ones today."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Newbies are good, but it's important to keep the regulars coming back.",
+						"How's it going with the clients?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"I try to bring joy to my clients so that they are excited and prepared"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"Show each customer something they haven't seen before"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"Uh, get them excited?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"Look at my corset. You have to undo so many hooks to get out of it!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"It's not easy."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"But not everyone can make me come."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Get me excited right now.",
+						"What do you think it takes to do that?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Good, but not good enough.",
+						"Right. Do you know how to do that?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"No offense, but you're all alike in some way.",
+						"What I haven't seen under the corset?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Next time I'll beat it",
+						"It was a warm-up, I just felt sorry for you."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Finally, someone will satisfy me for real!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"Come on, I don't believe that!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"Good for you, I can feel the excitement to try again!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"There's something else. I can have multi-orgasms."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I can come five times in succession."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"Ooh, that's a new record! Ten times!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I'll wait for the next time"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Manti",
+			"order":"26",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Hey, handsome!"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"Hope you didn't mind playing."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"I didn't think anyone else would be here."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Hey! It's okay, I'm just taking a break from class.",
+						"Hi! You can keep me company and we can spend some time together."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"Nice to meet you. Don't think I'm some slutty girl."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"My days are so boring, I need something to do."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"Oh, my big shape didn't scare you, did it?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"Ha ha. That sounds nice. I'll think it's true."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"We should wait for the rain to stop and move on."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I'm a little horny."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"No, it's fine, we'll just sit quietly.",
+						"It's okay, I like big tits like that."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Let's sit back, play a little more, tell me more about yourself.",
+						"Sit next to me, I'll hug you and show you something, like my dick."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"That's right. I'll be packing as well. I guess nothing interesting happened today.",
+						"Where are you going? What about staying with me and having sex?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"This is so good. I love it.",
+						"Don't go too far, we'll go further."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"I liked it. It feels good, something new."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"I'll pack my things, the rain's coming down."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I have to be careful, you might like it and not let it go."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"What a naughty boy you are. You're a pushy guy."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"Stay here. You're getting more than just sex."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"You're about to get your reward."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"See you later, handsome!"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Sanny",
+			"order":"27",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Uh-oh. Wow, look who's here"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"Hi. I thought I was the only one here. I didn't expect to see anyone."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"Who are you and tell me about yourself?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Hi. I'm just here to have fun and run this casino.",
+						"Hello, beautiful. You're very beautiful, we can play some more and more."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"You're an interesting guy. Not like the rest of them."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"There's something about you that's so charming, so nice."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"It's weird that you've never been caught before."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"Oh, that's a lot of pressure from you. It excites me."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"I have to try to keep myself from giving in here."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I'm very horny, my panties are getting wet."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"No, I'm ordinary, just like everybody else. Maybe a little different.",
+						"Yes, I'm not ordinary, so we can fuck."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Come on, it's easier than you think.",
+						"Come on, take off your panties and let's fuck. I'm on fire."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"That was so cool. I really enjoyed it.",
+						"I can tell it was really good. You're a great sucker and fucker."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Yeah, sure, we can meet up.",
+						"We can stay here and continue here."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Let's see what else is in here, we've gotten carried away."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"There's nothing interesting. There's only one thing on my mind."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I can't help myself."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"You're a romantic."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I like the way you do it. We should get together again."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"We can do that after you get off work."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"See you later, handsome!"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Mikky",
+			"order":"28",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Oh, this place is so cool. I've never been to such a beautiful place"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"Everything is so beautiful. Who's in charge of this place? I'll have to find out."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"There's a smell of sex in the air. I'm starting to feel the vibrations of arousal."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Hi! I'm in charge here.",
+						"Hi! Do you want to vacation or work here?"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"I didn't see that coming."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"Very cool character. I never thought they could be in charge of a casino."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"It's a weird, weird sensation, but my nipples are already erect."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"We should do something about that."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"I can't figure out what I like best about this place."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I think I'm getting a little overexcited about being here."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"It's nice and sweet that our place makes you happy.",
+						"Oh yeah, we're all about making this place as pleasant as possible. Your nipples are erect, my dick is hard."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Yeah, you can go to the bar and cool off.",
+						"I totally agree. I'm very horny myself and we can have sex to take the edge off."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"I really enjoyed it. It's great.",
+						"That's right. We need to do it again to get the full sensation and perception."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"We had a great time, I'd like to see you again.",
+						"You can kiss my dick goodbye so you don't forget it."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Ohh. This is so cool. I feel like I'm in heaven."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"It feels so good to be penetrated."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"My pussy thanks you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"You're such a hot guy. I love it."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"This is the kind of pressure I didn't expect to encounter."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I'm feeling a little squeezed out here. I really liked it."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"See you later!"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Clara",
+			"order":"29",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"What a great place."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"I wonder if they're hiring here. I'll have to ask."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"Everything is so beautiful, I love it, and the people are interesting."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Hi! I'm glad to hear you like our casino. We can chat.",
+						"Hey! Yeah, we're cool. We're just looking for new staff. We're looking for beautiful and giving bitches"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"Is there anything I need to tell you or show you?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"I think I'm ready. We can interview."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"I'm really worried about remembering math from school, I can't remember anything."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"That's an interesting offer."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"You'd pay me for an interview like this?"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"Oh, I'd love more than a blow job, I'd love to get laid."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Okay, you can spin around and tell me about yourself.",
+						"First you need to get naked, you look good and you need to blow me."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Yeah, sure, we can pay you.",
+						"No question we'll pay you for the interview, but we'll have to fuck you first."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"We're a great team. We're a family.",
+						"We're a good team, especially when everyone comes to blow me."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"See you soon, beautiful.",
+						"Come on, show me some more of yourself so I don't forget you."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Oh, yeah, I've never had an interview like this before."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"I gotta take a breath and see if I can find my panties."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I hope everyone at work is so cool."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"I love it."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I'll have to see what else is here. I've never been farther than the chief's office."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I gotta get ready, or I'll never leave this place, even though it's great."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"I'm off. See you later."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Casey",
+			"order":"30",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"Hey, boss."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"I've heard about you, Mr. Player."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"Let's see if you can beat me."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Hey, gorgeous. Let's play.",
+						"Hey, you dirty bitch. I can do more than win you."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"Ugh, you're so persistent. Let's give it a try."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"I like it. You're so smart."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"Very interesting. If you beat me again, I'll have wet panties."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"Oh, you're so persistent. I like the pressure."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"I can't stop playing with you. I'm so excited."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"I should try to beat you so you show me your dick."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Soon I'll beat you and you won't notice you're missing.",
+						"Let's play again and you can show me your wet panties and more."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"That's so sweet, I'll try not to give in to you anymore.",
+						"I'll beat you and you can take my cock in your mouth."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Yeah, like everyone else a couple times and no more.",
+						"I won't tell, let's check it out together. Then you can tell me how many times I can do it."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"Thanks, I really liked you too.",
+						"Nice. The best thing is to take my dick in your mouth."
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"Nice. After you came inside me, I can't stop thinking about you."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"I'll have to meet you again. So we can enjoy each other more."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"I wonder how many more times you can fuck me."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"I see you're confident, boss. I like you a lot."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"I think I'll have to see you a few more times."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"I never enjoyed going to the casino as much as I did today."
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"You're such a naughty boy."
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		},
+		{
+			"type":"LustTicTitsToe.LustChat",
+			"ID":"Template",
+			"order":"99999",
+			"nodes":{
+				{
+					"type":"LustTicTitsToe.LustChatStart",
+					"ID":"0",
+					"position":"840x80",
+					"height":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"1",
+					"position":"840x160",
+					"height":"59",
+					"message":"0"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"2",
+					"position":"840x260",
+					"height":"59",
+					"message":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"3",
+					"position":"840x360",
+					"height":"59",
+					"message":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"4",
+					"position":"840x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"3",
+						"4"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"39",
+					"position":"1100x80",
+					"height":"37",
+					"photoID":"1"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"40",
+					"position":"1100x160",
+					"height":"59",
+					"message":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"41",
+					"position":"1100x260",
+					"height":"59",
+					"message":"6"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"42",
+					"position":"1100x360",
+					"height":"59",
+					"message":"7"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"43",
+					"position":"1360x160",
+					"height":"59",
+					"message":"10"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"44",
+					"position":"1360x260",
+					"height":"59",
+					"message":"11"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"45",
+					"position":"1360x360",
+					"height":"59",
+					"message":"12"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"46",
+					"position":"1100x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"8",
+						"9"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"47",
+					"position":"1360x80",
+					"height":"37",
+					"photoID":"2"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"48",
+					"position":"1360x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"13",
+						"14"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"49",
+					"position":"1620x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"18",
+						"19"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatReply",
+					"ID":"50",
+					"position":"1880x480",
+					"height":"119",
+					"cost":"100",
+					"replies":{
+						"23",
+						"24"
+					}
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"51",
+					"position":"1620x80",
+					"height":"37",
+					"photoID":"3"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"52",
+					"position":"1620x160",
+					"height":"59",
+					"message":"15"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"53",
+					"position":"1620x260",
+					"height":"59",
+					"message":"16"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"54",
+					"position":"1620x360",
+					"height":"59",
+					"message":"17"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"55",
+					"position":"1880x80",
+					"height":"37",
+					"photoID":"4"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"56",
+					"position":"1880x160",
+					"height":"59",
+					"message":"20"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"57",
+					"position":"1880x260",
+					"height":"59",
+					"message":"21"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"58",
+					"position":"1880x360",
+					"height":"59",
+					"message":"22"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatPhoto",
+					"ID":"59",
+					"position":"2140x80",
+					"height":"37",
+					"photoID":"5"
+				},
+				{
+					"type":"LustTicTitsToe.LustChatMessage",
+					"ID":"60",
+					"position":"2140x160",
+					"height":"59",
+					"message":"25"
+				}
+			},
+			"connections":{
+				"(1, 0)-(0, 0)",
+				"(2, 0)-(1, 1)",
+				"(3, 0)-(2, 1)",
+				"(4, 1)-(39, 0)",
+				"(3, 1)-(4, 0)",
+				"(4, 2)-(39, 0)",
+				"(39, 1)-(40, 0)",
+				"(40, 1)-(41, 0)",
+				"(41, 1)-(42, 0)",
+				"(42, 1)-(46, 0)",
+				"(46, 1)-(47, 0)",
+				"(46, 2)-(47, 0)",
+				"(47, 1)-(43, 0)",
+				"(43, 1)-(44, 0)",
+				"(44, 1)-(45, 0)",
+				"(45, 1)-(48, 0)",
+				"(48, 1)-(51, 0)",
+				"(48, 2)-(51, 0)",
+				"(51, 1)-(52, 0)",
+				"(52, 1)-(53, 0)",
+				"(53, 1)-(54, 0)",
+				"(54, 1)-(49, 0)",
+				"(49, 1)-(55, 0)",
+				"(49, 2)-(55, 0)",
+				"(55, 1)-(56, 0)",
+				"(56, 1)-(57, 0)",
+				"(57, 1)-(58, 0)",
+				"(58, 1)-(50, 0)",
+				"(50, 1)-(59, 0)",
+				"(50, 2)-(59, 0)",
+				"(59, 1)-(60, 0)"
+			}
+		}
+	}
+}

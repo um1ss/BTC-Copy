@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 539,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armchair_3
+  rotate: false
+  xy: 306, 2
+  size: 231, 198
+  orig: 231, 198
+  offset: 0, 0
+  index: -1
+shadow_arm_3
+  rotate: false
+  xy: 2, 34
+  size: 302, 166
+  orig: 302, 166
+  offset: 0, 0
+  index: -1

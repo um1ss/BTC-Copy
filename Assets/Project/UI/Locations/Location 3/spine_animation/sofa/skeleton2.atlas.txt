@@ -1,0 +1,62 @@
+
+skeleton2.png
+size: 1549,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chair_1
+  rotate: true
+  xy: 642, 16
+  size: 95, 147
+  orig: 95, 147
+  offset: 0, 0
+  index: -1
+chair_2
+  rotate: true
+  xy: 642, 16
+  size: 95, 147
+  orig: 95, 147
+  offset: 0, 0
+  index: -1
+chair_3
+  rotate: true
+  xy: 642, 16
+  size: 95, 147
+  orig: 95, 147
+  offset: 0, 0
+  index: -1
+chair_4
+  rotate: true
+  xy: 642, 16
+  size: 95, 147
+  orig: 95, 147
+  offset: 0, 0
+  index: -1
+chair_5
+  rotate: true
+  xy: 642, 16
+  size: 95, 147
+  orig: 95, 147
+  offset: 0, 0
+  index: -1
+sofa_1
+  rotate: false
+  xy: 2, 2
+  size: 638, 504
+  orig: 638, 504
+  offset: 0, 0
+  index: -1
+sofa_2
+  rotate: false
+  xy: 642, 113
+  size: 612, 393
+  orig: 612, 393
+  offset: 0, 0
+  index: -1
+table
+  rotate: true
+  xy: 1256, 84
+  size: 422, 291
+  orig: 422, 291
+  offset: 0, 0
+  index: -1

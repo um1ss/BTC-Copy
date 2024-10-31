@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Window
+  m_EditorClassIdentifier: 
+  m_GroupName: Window
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fa9440d8c55fa1248838e8cd7267bf92
+  m_SerializeEntries:
+  - m_GUID: 0589f4f9b6ddd73429a4a0cd3647a71d
+    m_Address: Chat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c80694d049082e4f93d3c3f7b2990c6
+    m_Address: Settings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 421e866466baeb34fa7860ede37c12f5
+    m_Address: Slotmaschine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5027b18588a75564f8247469648ab3b0
+    m_Address: Missions
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b0f174356e2eb44ab006085a022329e
+    m_Address: Collections
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83869f9c2a7c0af43b836112f8427d44
+    m_Address: TutorialOverlay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 906d7927a9f531f448d1d82c89dfd494
+    m_Address: Promote
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bb8cf8c4664a2d4599d85128a762786
+    m_Address: Shop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbb4b2ac5d9da07418dced1e06850b59
+    m_Address: Cleaning
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8d25855bd693004a931317935453d5b
+    m_Address: SupportWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0e03f13f31d5034395a97c808268938
+    m_Address: MainButtons
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f94fee2379f2c3a47b99134a4d38eb02
+    m_Address: Titisgram
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b661157e27b5d47cc9bafb6714e0458e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 957ce193460d7af4e85787a7166322db, type: 2}
+    - {fileID: 11400000, guid: 11374b2126eb19944b97bfa29c5a7e19, type: 2}

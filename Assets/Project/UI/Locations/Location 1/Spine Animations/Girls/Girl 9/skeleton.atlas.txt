@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 1888,1554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: true
+  xy: 2, 4
+  size: 356, 586
+  orig: 356, 586
+  offset: 0, 0
+  index: -1
+bb
+  rotate: true
+  xy: 1494, 26
+  size: 129, 122
+  orig: 129, 122
+  offset: 0, 0
+  index: -1
+bb_2
+  rotate: false
+  xy: 1618, 22
+  size: 118, 133
+  orig: 118, 133
+  offset: 0, 0
+  index: -1
+bb_g_3
+  rotate: true
+  xy: 1569, 775
+  size: 68, 130
+  orig: 68, 130
+  offset: 0, 0
+  index: -1
+body_g_1
+  rotate: false
+  xy: 789, 1128
+  size: 274, 424
+  orig: 274, 424
+  offset: 0, 0
+  index: -1
+body_g_1_2
+  rotate: false
+  xy: 789, 561
+  size: 135, 180
+  orig: 135, 180
+  offset: 0, 0
+  index: -1
+body_g_2
+  rotate: true
+  xy: 1569, 845
+  size: 173, 312
+  orig: 173, 315
+  offset: 0, 0
+  index: -1
+hand_g_1_r
+  rotate: false
+  xy: 789, 428
+  size: 139, 131
+  orig: 139, 131
+  offset: 0, 0
+  index: -1
+hand_g_2_2
+  rotate: false
+  xy: 954, 760
+  size: 135, 366
+  orig: 348, 469
+  offset: 213, 63
+  index: -1
+hand_g_2_2_3
+  rotate: true
+  xy: 1099, 199
+  size: 173, 266
+  orig: 173, 281
+  offset: 0, 15
+  index: -1
+head_g_1
+  rotate: true
+  xy: 1326, 774
+  size: 244, 241
+  orig: 244, 241
+  offset: 0, 0
+  index: -1
+head_g_2
+  rotate: true
+  xy: 1091, 764
+  size: 254, 233
+  orig: 254, 233
+  offset: 0, 0
+  index: -1
+leg_g_1_l
+  rotate: true
+  xy: 590, 2
+  size: 358, 507
+  orig: 358, 513
+  offset: 0, 0
+  index: -1
+leg_g_1_r
+  rotate: true
+  xy: 954, 374
+  size: 384, 482
+  orig: 384, 486
+  offset: 0, 0
+  index: -1
+leg_g_2_2_r
+  rotate: true
+  xy: 789, 743
+  size: 383, 163
+  orig: 383, 163
+  offset: 0, 0
+  index: -1
+leg_g_2_l
+  rotate: false
+  xy: 1438, 157
+  size: 430, 615
+  orig: 430, 615
+  offset: 0, 0
+  index: -1
+leg_g_2_r
+  rotate: true
+  xy: 1099, 9
+  size: 146, 393
+  orig: 146, 393
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1099, 1020
+  size: 787, 532
+  orig: 787, 610
+  offset: 0, 78
+  index: -1
+strapon
+  rotate: true
+  xy: 789, 381
+  size: 45, 123
+  orig: 45, 123
+  offset: 0, 0
+  index: -1
+vagina
+  rotate: true
+  xy: 1738, 49
+  size: 106, 107
+  orig: 106, 107
+  offset: 0, 0
+  index: -1
+Слой 1
+  rotate: false
+  xy: 2, 362
+  size: 785, 1190
+  orig: 787, 1192
+  offset: 1, 1
+  index: -1

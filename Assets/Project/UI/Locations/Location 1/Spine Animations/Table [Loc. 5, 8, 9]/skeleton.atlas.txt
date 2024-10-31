@@ -1,0 +1,160 @@
+
+skeleton.png
+size: 1967,1383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chair_1
+  rotate: false
+  xy: 1644, 435
+  size: 141, 147
+  orig: 141, 147
+  offset: 0, 0
+  index: -1
+chair_2
+  rotate: false
+  xy: 1219, 542
+  size: 142, 205
+  orig: 142, 205
+  offset: 0, 0
+  index: -1
+chair_3
+  rotate: true
+  xy: 1512, 22
+  size: 149, 208
+  orig: 149, 208
+  offset: 0, 0
+  index: -1
+chair_4
+  rotate: true
+  xy: 1219, 448
+  size: 92, 137
+  orig: 92, 137
+  offset: 0, 0
+  index: -1
+chair_5
+  rotate: true
+  xy: 1219, 448
+  size: 92, 137
+  orig: 92, 137
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 2, 749
+  size: 1359, 632
+  orig: 1359, 632
+  offset: 0, 0
+  index: -1
+pot
+  rotate: false
+  xy: 1349, 176
+  size: 198, 242
+  orig: 198, 242
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 418
+  size: 789, 329
+  orig: 798, 354
+  offset: 5, 3
+  index: -1
+shadows
+  rotate: true
+  xy: 1549, 173
+  size: 245, 116
+  orig: 256, 138
+  offset: 8, 9
+  index: -1
+sofa_1
+  rotate: false
+  xy: 2, 22
+  size: 612, 394
+  orig: 612, 394
+  offset: 0, 0
+  index: -1
+sofa_2
+  rotate: false
+  xy: 1363, 877
+  size: 597, 504
+  orig: 597, 504
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 1363, 584
+  size: 422, 291
+  orig: 422, 291
+  offset: 0, 0
+  index: -1
+tree_trunk
+  rotate: true
+  xy: 616, 2
+  size: 77, 376
+  orig: 77, 376
+  offset: 0, 0
+  index: -1
+twig_1
+  rotate: true
+  xy: 616, 120
+  size: 296, 158
+  orig: 297, 158
+  offset: 1, 0
+  index: -1
+twig_2
+  rotate: true
+  xy: 1099, 48
+  size: 342, 248
+  orig: 342, 248
+  offset: 0, 0
+  index: -1
+twig_3
+  rotate: true
+  xy: 1667, 214
+  size: 219, 200
+  orig: 219, 200
+  offset: 0, 0
+  index: -1
+twig_4
+  rotate: true
+  xy: 1349, 40
+  size: 134, 161
+  orig: 134, 161
+  offset: 0, 0
+  index: -1
+twig_5
+  rotate: false
+  xy: 1722, 10
+  size: 212, 202
+  orig: 212, 202
+  offset: 0, 0
+  index: -1
+twig_6
+  rotate: true
+  xy: 776, 81
+  size: 309, 321
+  orig: 309, 321
+  offset: 0, 0
+  index: -1
+twig_7
+  rotate: true
+  xy: 793, 392
+  size: 355, 424
+  orig: 358, 424
+  offset: 0, 0
+  index: -1
+twig_8
+  rotate: true
+  xy: 1787, 528
+  size: 347, 178
+  orig: 347, 178
+  offset: 0, 0
+  index: -1
+twig_9
+  rotate: false
+  xy: 1363, 420
+  size: 279, 162
+  orig: 279, 162
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 2032,1968
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+had_1_1
+  rotate: false
+  xy: 470, 2
+  size: 287, 216
+  orig: 287, 216
+  offset: 0, 0
+  index: -1
+had_1_2
+  rotate: false
+  xy: 1509, 15
+  size: 220, 304
+  orig: 220, 304
+  offset: 0, 0
+  index: -1
+had_1_3
+  rotate: false
+  xy: 1864, 432
+  size: 159, 155
+  orig: 167, 157
+  offset: 0, 2
+  index: -1
+had_1_4
+  rotate: false
+  xy: 1731, 127
+  size: 185, 177
+  orig: 190, 183
+  offset: 0, 0
+  index: -1
+had_2_1
+  rotate: true
+  xy: 470, 480
+  size: 140, 288
+  orig: 140, 288
+  offset: 0, 0
+  index: -1
+had_2_2
+  rotate: true
+  xy: 1896, 589
+  size: 232, 134
+  orig: 237, 136
+  offset: 0, 2
+  index: -1
+head_1
+  rotate: false
+  xy: 470, 220
+  size: 287, 258
+  orig: 302, 258
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 1509, 321
+  size: 308, 353
+  orig: 308, 353
+  offset: 0, 0
+  index: -1
+le_1
+  rotate: true
+  xy: 1509, 631
+  size: 190, 385
+  orig: 190, 385
+  offset: 0, 0
+  index: -1
+ody_1
+  rotate: false
+  xy: 1509, 823
+  size: 518, 418
+  orig: 518, 418
+  offset: 0, 0
+  index: -1
+ody_2
+  rotate: false
+  xy: 2, 19
+  size: 466, 601
+  orig: 483, 605
+  offset: 6, 4
+  index: -1
+shadow
+  rotate: false
+  xy: 772, 1243
+  size: 1179, 723
+  orig: 1239, 723
+  offset: 0, 0
+  index: -1
+ss_1
+  rotate: false
+  xy: 1864, 306
+  size: 146, 124
+  orig: 146, 124
+  offset: 0, 0
+  index: -1
+Слой 0
+  rotate: true
+  xy: 772, 81
+  size: 1160, 735
+  orig: 1162, 737
+  offset: 1, 1
+  index: -1
+Слой 1
+  rotate: true
+  xy: 2, 622
+  size: 1344, 768
+  orig: 1346, 770
+  offset: 1, 1
+  index: -1

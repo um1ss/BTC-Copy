@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e548e0f7bdd600488e67b6a531de5df, type: 3}
+  m_Name: GoldCard
+  m_EditorClassIdentifier: 
+  _cardName: Slut Girl
+  _cardBackground: {fileID: 21300000, guid: c1dca23fd58e3af4096ca5c9b88843a7, type: 3}
+  _cardIcon: {fileID: 21300000, guid: d1959616fa44c674e9d99905e193c935, type: 3}
+  _blankStar: {fileID: 21300000, guid: e6e063ff53a0bff43a338416b632e735, type: 3}
+  _filledStar: {fileID: 21300000, guid: 1817521a4d4402b47b651c4e52ca818d, type: 3}
+  _sliderBackground: {fileID: 21300000, guid: 8dfd20f13199f4d46a0e1c272a7cd043, type: 3}
+  _sliderFill: {fileID: 21300000, guid: e0a47fa213a37d547a495bcb2d6f95c5, type: 3}
+  _textOnSlider: 50/100
+  _softIcon: {fileID: 21300000, guid: 4adb25f694dd05240b0b6e47d1309938, type: 3}
+  _softText: +100%

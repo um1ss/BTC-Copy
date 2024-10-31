@@ -1,0 +1,138 @@
+
+skeleton.png
+size: 1990,1278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dress
+  rotate: false
+  xy: 254, 863
+  size: 578, 240
+  orig: 578, 240
+  offset: 0, 0
+  index: -1
+g_2
+  rotate: true
+  xy: 2, 901
+  size: 246, 250
+  orig: 246, 250
+  offset: 0, 0
+  index: -1
+had_1
+  rotate: false
+  xy: 881, 1084
+  size: 289, 192
+  orig: 289, 192
+  offset: 0, 0
+  index: -1
+had_2
+  rotate: false
+  xy: 582, 1105
+  size: 297, 171
+  orig: 297, 171
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1669, 1032
+  size: 319, 244
+  orig: 319, 244
+  offset: 0, 0
+  index: -1
+l_1
+  rotate: true
+  xy: 1120, 707
+  size: 331, 377
+  orig: 331, 377
+  offset: 0, 0
+  index: -1
+l_2
+  rotate: true
+  xy: 1499, 686
+  size: 344, 357
+  orig: 344, 357
+  offset: 0, 0
+  index: -1
+l_3
+  rotate: false
+  xy: 296, 1127
+  size: 284, 149
+  orig: 287, 149
+  offset: 3, 0
+  index: -1
+l_4
+  rotate: false
+  xy: 1404, 1040
+  size: 263, 236
+  orig: 263, 237
+  offset: 0, 1
+  index: -1
+ody
+  rotate: true
+  xy: 834, 812
+  size: 270, 284
+  orig: 270, 284
+  offset: 0, 0
+  index: -1
+ody_3
+  rotate: true
+  xy: 1172, 1073
+  size: 203, 230
+  orig: 203, 232
+  offset: 0, 2
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 193
+  size: 668, 774
+  orig: 668, 774
+  offset: 0, 0
+  index: -1
+ss_1
+  rotate: true
+  xy: 166, 1149
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+ss_2
+  rotate: false
+  xy: 39, 1152
+  size: 125, 124
+  orig: 125, 124
+  offset: 0, 0
+  index: -1
+tog
+  rotate: false
+  xy: 2, 1248
+  size: 35, 28
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Слой 1
+  rotate: true
+  xy: 778, 2
+  size: 682, 862
+  orig: 684, 864
+  offset: 1, 1
+  index: -1
+
+skeleton2.png
+size: 1670,1252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 0
+  rotate: false
+  xy: 2, 2
+  size: 832, 1248
+  orig: 834, 1250
+  offset: 1, 1
+  index: -1
+Слой 2
+  rotate: false
+  xy: 836, 2
+  size: 832, 1248
+  orig: 834, 1250
+  offset: 1, 1
+  index: -1

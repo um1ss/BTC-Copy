@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 658,513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: true
+  xy: 540, 86
+  size: 175, 116
+  orig: 182, 123
+  offset: 3, 4
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 263
+  size: 637, 248
+  orig: 637, 248
+  offset: 0, 0
+  index: -1
+sofa_4
+  rotate: false
+  xy: 2, 2
+  size: 536, 259
+  orig: 536, 259
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CollectionVaginaIcons
+  m_EditorClassIdentifier: 
+  m_GroupName: CollectionVaginaIcons
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3a78da15a32bb584cb69afb10e8a7363
+  m_SerializeEntries:
+  - m_GUID: 116979f3798193742bd6f49e5804d48d
+    m_Address: DjIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VaginaCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 327a9c1738e76f042975d4ba45f11622
+    m_Address: BarIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VaginaCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3661cd3e00340cd43840b3616f523116
+    m_Address: Roulette
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VaginaCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37c464d64f478df4985dcea7d9683e11
+    m_Address: SofaIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VaginaCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42b48ea16c82eb14c8437822e421be03
+    m_Address: PokerTable
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VaginaCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 567dee8e856a7104bb6aa998b487f339
+    m_Address: FIsting
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VaginaCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8711d6599514689479d7de1722a06bd6
+    m_Address: Strapon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VaginaCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba17424c24c6fd445a29f1ce4a19e5de
+    m_Address: Vending
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VaginaCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1959616fa44c674e9d99905e193c935
+    m_Address: SlotMaschinesIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VaginaCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f609441bd9ac37e4db904b01c7f77d9a
+    m_Address: notOpenImage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VaginaCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe6ffe9f52d24ed48baba41932990371
+    m_Address: LunchIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VaginaCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b661157e27b5d47cc9bafb6714e0458e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ad84d143ff76cc944873020058ec45e9, type: 2}
+    - {fileID: 11400000, guid: 01dbf499bfc7a484e8ce6a21e6e79329, type: 2}

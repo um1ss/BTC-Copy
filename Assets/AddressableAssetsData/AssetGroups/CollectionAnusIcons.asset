@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CollectionAnusIcons
+  m_EditorClassIdentifier: 
+  m_GroupName: CollectionAnusIcons
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 163a2c84d1356784c9e486c25ef00021
+  m_SerializeEntries:
+  - m_GUID: 01fc5f12314f020408321390a0b0f0c0
+    m_Address: VendingPussyIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AnusCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05ad71e6f4feadf40a658f66810b277a
+    m_Address: MachineIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AnusCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a55330fdaee5bc4999e9c55b0d350a4
+    m_Address: DanceAnusIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AnusCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 211fcc5ad318b9b4f886419c50d2b55a
+    m_Address: TuchbleIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AnusCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48dd74e8588d7444f8678b5ced04601e
+    m_Address: ChillAnusIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AnusCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3dc1a724868c724a9e3a7d41a99eaa2
+    m_Address: FistingAnusIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AnusCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9fd28742f1278e478d101718c604972
+    m_Address: SlutsIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AnusCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c65793ad301271148901866dcdfe26b0
+    m_Address: RouletteAnusIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AnusCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e53411e406e8be1478c1cfc481335115
+    m_Address: LoopenisIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AnusCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0121e609aa9f864f8d53bfedfe0d441
+    m_Address: SofaFapAnusIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AnusCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b661157e27b5d47cc9bafb6714e0458e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b792cd71dd62e354abbd01a4302722ed, type: 2}
+    - {fileID: 11400000, guid: 0be32fc191906e943a2deb385f44b45c, type: 2}

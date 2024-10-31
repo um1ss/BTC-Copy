@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1724,1326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+all
+  rotate: false
+  xy: 402, 506
+  size: 788, 818
+  orig: 790, 820
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 1192, 731
+  size: 530, 593
+  orig: 530, 594
+  offset: 0, 0
+  index: -1
+breast_l
+  rotate: false
+  xy: 1517, 35
+  size: 114, 127
+  orig: 114, 127
+  offset: 0, 0
+  index: -1
+breast_r
+  rotate: true
+  xy: 1517, 164
+  size: 115, 128
+  orig: 115, 128
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 1460, 523
+  size: 255, 206
+  orig: 255, 206
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 1192, 511
+  size: 266, 218
+  orig: 266, 218
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1423, 281
+  size: 269, 228
+  orig: 269, 228
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 330, 10
+  size: 282, 493
+  orig: 288, 497
+  offset: 2, 3
+  index: -1
+leg_l_2
+  rotate: false
+  xy: 2, 505
+  size: 398, 819
+  orig: 398, 819
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 2, 2
+  size: 326, 501
+  orig: 338, 508
+  offset: 8, 6
+  index: -1
+leg_r_2
+  rotate: true
+  xy: 614, 78
+  size: 426, 807
+  orig: 426, 807
+  offset: 0, 0
+  index: -1
+vagina
+  rotate: false
+  xy: 1423, 111
+  size: 92, 168
+  orig: 92, 170
+  offset: 0, 0
+  index: -1

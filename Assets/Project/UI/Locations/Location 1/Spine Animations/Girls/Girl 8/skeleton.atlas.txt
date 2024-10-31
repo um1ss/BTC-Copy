@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 2029,1666
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+had_g_1_3
+  rotate: true
+  xy: 1563, 608
+  size: 128, 453
+  orig: 128, 453
+  offset: 0, 0
+  index: -1
+had_g_1_6
+  rotate: false
+  xy: 1398, 271
+  size: 163, 465
+  orig: 163, 465
+  offset: 0, 0
+  index: -1
+had_g_2_1
+  rotate: false
+  xy: 1853, 174
+  size: 92, 269
+  orig: 92, 269
+  offset: 0, 0
+  index: -1
+had_g_2_2
+  rotate: true
+  xy: 1650, 874
+  size: 137, 304
+  orig: 137, 304
+  offset: 0, 0
+  index: -1
+had_g_2_2_r
+  rotate: false
+  xy: 1660, 55
+  size: 191, 388
+  orig: 191, 388
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 778, 28
+  size: 207, 189
+  orig: 207, 189
+  offset: 0, 0
+  index: -1
+head_g_1
+  rotate: false
+  xy: 1398, 738
+  size: 198, 273
+  orig: 198, 273
+  offset: 0, 0
+  index: -1
+leg_g1
+  rotate: true
+  xy: 1598, 740
+  size: 132, 109
+  orig: 132, 109
+  offset: 0, 0
+  index: -1
+leg_g_1
+  rotate: true
+  xy: 1563, 445
+  size: 161, 415
+  orig: 161, 415
+  offset: 0, 0
+  index: -1
+leg_g_2
+  rotate: true
+  xy: 297, 16
+  size: 219, 479
+  orig: 219, 479
+  offset: 0, 0
+  index: -1
+leg_g_2_2
+  rotate: false
+  xy: 1563, 259
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+ody_g_1
+  rotate: false
+  xy: 2, 9
+  size: 293, 226
+  orig: 293, 226
+  offset: 0, 0
+  index: -1
+ody_g_1_0
+  rotate: true
+  xy: 969, 2
+  size: 250, 186
+  orig: 250, 186
+  offset: 0, 0
+  index: -1
+ody_g_2
+  rotate: true
+  xy: 1157, 8
+  size: 244, 491
+  orig: 244, 491
+  offset: 0, 0
+  index: -1
+ss_1
+  rotate: true
+  xy: 1709, 752
+  size: 120, 100
+  orig: 124, 100
+  offset: 4, 0
+  index: -1
+ss_2
+  rotate: true
+  xy: 1811, 766
+  size: 106, 104
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+Слой 0
+  rotate: true
+  xy: 836, 1013
+  size: 651, 1191
+  orig: 653, 1193
+  offset: 1, 1
+  index: -1
+Слой 1
+  rotate: false
+  xy: 2, 237
+  size: 832, 1427
+  orig: 834, 1429
+  offset: 1, 1
+  index: -1
+Слой 27
+  rotate: true
+  xy: 836, 254
+  size: 757, 560
+  orig: 757, 687
+  offset: 0, 66
+  index: -1

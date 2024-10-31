@@ -1,0 +1,131 @@
+
+skeleton.png
+size: 2040,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 1348, 328
+  size: 462, 518
+  orig: 470, 558
+  offset: 7, 39
+  index: -1
+foot_g_2
+  rotate: false
+  xy: 1812, 429
+  size: 191, 417
+  orig: 202, 426
+  offset: 0, 9
+  index: -1
+had_g_1_l
+  rotate: true
+  xy: 411, 45
+  size: 145, 255
+  orig: 145, 255
+  offset: 0, 0
+  index: -1
+had_g_1_r
+  rotate: true
+  xy: 1241, 34
+  size: 129, 337
+  orig: 129, 337
+  offset: 0, 0
+  index: -1
+had_g_2_1
+  rotate: true
+  xy: 1812, 2
+  size: 425, 120
+  orig: 425, 120
+  offset: 0, 0
+  index: -1
+had_g_2_2
+  rotate: true
+  xy: 709, 192
+  size: 265, 273
+  orig: 265, 276
+  offset: 0, 0
+  index: -1
+had_g_2_l
+  rotate: true
+  xy: 1580, 33
+  size: 118, 205
+  orig: 118, 205
+  offset: 0, 0
+  index: -1
+head_g_1
+  rotate: true
+  xy: 2, 145
+  size: 312, 407
+  orig: 312, 407
+  offset: 0, 0
+  index: -1
+head_g_2
+  rotate: false
+  xy: 411, 192
+  size: 296, 265
+  orig: 296, 265
+  offset: 0, 0
+  index: -1
+ody_g_1
+  rotate: true
+  xy: 984, 146
+  size: 311, 255
+  orig: 311, 255
+  offset: 0, 0
+  index: -1
+ody_g_2
+  rotate: true
+  xy: 1348, 848
+  size: 1160, 690
+  orig: 1160, 690
+  offset: 0, 0
+  index: -1
+ss_g_1_l
+  rotate: false
+  xy: 1428, 166
+  size: 131, 160
+  orig: 131, 160
+  offset: 0, 0
+  index: -1
+ss_g_1_r
+  rotate: true
+  xy: 1241, 165
+  size: 161, 185
+  orig: 260, 197
+  offset: 0, 0
+  index: -1
+ss_g_2
+  rotate: false
+  xy: 1580, 153
+  size: 155, 173
+  orig: 166, 187
+  offset: 0, 6
+  index: -1
+Слой 1
+  rotate: false
+  xy: 2, 459
+  size: 1344, 1549
+  orig: 1346, 1551
+  offset: 1, 1
+  index: -1
+
+skeleton2.png
+size: 1291,1276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 1275, 514
+  orig: 1292, 583
+  offset: 16, 1
+  index: -1
+Слой 0
+  rotate: false
+  xy: 2, 518
+  size: 1287, 756
+  orig: 1289, 758
+  offset: 1, 1
+  index: -1

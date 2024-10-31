@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 449,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chair
+  rotate: true
+  xy: 197, 2
+  size: 116, 107
+  orig: 116, 107
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 341, 193
+  orig: 350, 199
+  offset: 4, 3
+  index: -1
+sofa
+  rotate: false
+  xy: 197, 120
+  size: 250, 223
+  orig: 250, 223
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+skeleton2.png
+size: 1588,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pot
+  rotate: false
+  xy: 1100, 267
+  size: 198, 242
+  orig: 198, 242
+  offset: 0, 0
+  index: -1
+slots_1
+  rotate: true
+  xy: 678, 2
+  size: 163, 289
+  orig: 163, 289
+  offset: 0, 0
+  index: -1
+slots_4
+  rotate: true
+  xy: 678, 2
+  size: 163, 289
+  orig: 163, 289
+  offset: 0, 0
+  index: -1
+tree_trunk
+  rotate: true
+  xy: 2, 6
+  size: 77, 376
+  orig: 77, 376
+  offset: 0, 0
+  index: -1
+twig_1
+  rotate: false
+  xy: 380, 2
+  size: 296, 158
+  orig: 297, 158
+  offset: 1, 0
+  index: -1
+twig_2
+  rotate: true
+  xy: 539, 167
+  size: 342, 248
+  orig: 342, 248
+  offset: 0, 0
+  index: -1
+twig_3
+  rotate: true
+  xy: 1250, 46
+  size: 219, 200
+  orig: 219, 200
+  offset: 0, 0
+  index: -1
+twig_4
+  rotate: false
+  xy: 1452, 134
+  size: 134, 161
+  orig: 134, 161
+  offset: 0, 0
+  index: -1
+twig_5
+  rotate: true
+  xy: 1300, 297
+  size: 212, 202
+  orig: 212, 202
+  offset: 0, 0
+  index: -1
+twig_6
+  rotate: false
+  xy: 789, 188
+  size: 309, 321
+  orig: 309, 321
+  offset: 0, 0
+  index: -1
+twig_7
+  rotate: false
+  xy: 2, 85
+  size: 355, 424
+  orig: 358, 424
+  offset: 0, 0
+  index: -1
+twig_8
+  rotate: true
+  xy: 359, 162
+  size: 347, 178
+  orig: 347, 178
+  offset: 0, 0
+  index: -1
+twig_9
+  rotate: false
+  xy: 969, 24
+  size: 279, 162
+  orig: 279, 162
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CollectionPenisIcons
+  m_EditorClassIdentifier: 
+  m_GroupName: CollectionPenisIcons
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5f741b893b6fed447ab2acb128dca69f
+  m_SerializeEntries:
+  - m_GUID: 4aaa1441498c763489b5af1d9587e1a5
+    m_Address: Lounge
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PenisCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ca82adee4dc08044a7074921cf93116
+    m_Address: PenisSofa
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PenisCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84941338032ade942a5f52c8ee0a7c29
+    m_Address: Dance
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PenisCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92ba5783c2cc73946980634ddbafadcd
+    m_Address: Tarot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PenisCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99f6039d6366be74398374766bfe7e0b
+    m_Address: Ring
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PenisCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a72a6728af944e7479925d2fabc0bac4
+    m_Address: Analis
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PenisCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b57fa1727ae3d4245a0215bac71e8d08
+    m_Address: BarPussy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PenisCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bac176a081d344348b05dec938a1df9c
+    m_Address: Chill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PenisCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dccb1b33b9ca3024b84f8a3a51e7681e
+    m_Address: SofaFap
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PenisCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e17ddb4c6a8b5004baf845bcb0b37871
+    m_Address: Fisting
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PenisCardImages
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b661157e27b5d47cc9bafb6714e0458e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a00c29c7cc8f64646b64999d1c605e6a, type: 2}
+    - {fileID: 11400000, guid: 5f3b22ba55b12054fb44c64ea7e9c952, type: 2}

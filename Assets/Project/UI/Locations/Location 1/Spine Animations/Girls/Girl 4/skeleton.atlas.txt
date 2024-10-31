@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 1918,1379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+had_g_1_l
+  rotate: true
+  xy: 1775, 994
+  size: 383, 96
+  orig: 383, 96
+  offset: 0, 0
+  index: -1
+had_g_1_r
+  rotate: true
+  xy: 1775, 737
+  size: 255, 121
+  orig: 255, 121
+  offset: 0, 0
+  index: -1
+head_g_1
+  rotate: false
+  xy: 1663, 128
+  size: 253, 296
+  orig: 253, 296
+  offset: 0, 0
+  index: -1
+leg_k
+  rotate: false
+  xy: 1343, 443
+  size: 360, 221
+  orig: 360, 221
+  offset: 0, 0
+  index: -1
+ody_1
+  rotate: false
+  xy: 789, 666
+  size: 984, 711
+  orig: 984, 713
+  offset: 0, 2
+  index: -1
+ody_g_2
+  rotate: false
+  xy: 789, 97
+  size: 552, 567
+  orig: 555, 567
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 1375, 785
+  orig: 1375, 785
+  offset: 0, 0
+  index: -1
+ss
+  rotate: false
+  xy: 1705, 426
+  size: 195, 238
+  orig: 195, 238
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1873, 1326
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+Слой 1
+  rotate: true
+  xy: 1343, 195
+  size: 246, 318
+  orig: 246, 318
+  offset: 0, 0
+  index: -1

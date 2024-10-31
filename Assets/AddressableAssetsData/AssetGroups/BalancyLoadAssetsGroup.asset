@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BalancyLoadAssetsGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: BalancyLoadAssetsGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 98f977170b58e3849accb19914337212
+  m_SerializeEntries:
+  - m_GUID: 29e8b12eeb5610e4c8ec7f1fbc8a3212
+    m_Address: GirlSlotButton
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebf44d12893ff3e40930f9092ac43e08
+    m_Address: BitTitsSmallSlot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b661157e27b5d47cc9bafb6714e0458e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e0666c7646eb28748924340a30ec9f63, type: 2}
+    - {fileID: 11400000, guid: c1976487dfe63ae4bb8fa9133ee7ac3c, type: 2}
